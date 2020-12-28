@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1422,
-    "timeDay": 1422,
-    "timeWeek": 1422,
-    "timeMonth": 1422,
-    "timeYear": 1422,
+    "time": 1309,
+    "timeDay": 1309,
+    "timeWeek": 1309,
+    "timeMonth": 1309,
+    "timeYear": 1309,
     "dailyMinutesDown": {}
   },
   {
@@ -28,47 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1133,
-    "timeDay": 1133,
-    "timeWeek": 1133,
-    "timeMonth": 1133,
-    "timeYear": 1133,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 261,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1146,
+    "timeDay": 1146,
+    "timeWeek": 1146,
+    "timeMonth": 1146,
+    "timeYear": 1146,
     "dailyMinutesDown": {}
   },
   {
@@ -78,9 +42,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
@@ -88,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 7
     }
   }
 ]
