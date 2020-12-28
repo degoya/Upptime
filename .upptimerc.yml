@@ -4,8 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: DEGOYA
+    url: https://degoya.digital
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
