@@ -8,8 +8,6 @@ sites:
     url: https://degoya.digital
   - name: Hostflex
     url: https://hostflex.de
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
