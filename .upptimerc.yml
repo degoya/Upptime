@@ -6,8 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: DEGOYA
     url: https://degoya.digital
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Hostflex
+    url: https://hostflex.de
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
