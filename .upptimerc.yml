@@ -8,6 +8,12 @@ sites:
     url: https://degoya.digital
   - name: Hostflex
     url: https://hostflex.de
+  - name: Hostflex ISPC1
+    url: https://ispc1.hostflex.de
+  - name: Hostflex Web1
+    url: https://web1.hostflex.de
+  - name: Hostflex Web2
+    url: https://web2.hostflex.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
