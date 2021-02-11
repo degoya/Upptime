@@ -14,7 +14,9 @@ sites:
     url: https://web1.hostflex.de
   - name: Hostflex Web2
     url: https://web2.hostflex.de
-
+  - name: Hostflex Cloud
+    url: https://cloud.hostflex.de
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: degoya.upptime.js.org
