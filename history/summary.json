@@ -97,17 +97,17 @@
     "url": "https://cloud.hostflex.de",
     "icon": "https://favicons.githubusercontent.com/cloud.hostflex.de",
     "slug": "hostflex-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 766,
-    "timeWeek": 977,
-    "timeMonth": 910,
-    "timeYear": 929,
+    "time": 925,
+    "timeDay": 774,
+    "timeWeek": 953,
+    "timeMonth": 906,
+    "timeYear": 925,
     "dailyMinutesDown": {}
   }
 ]
