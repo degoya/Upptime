@@ -4,10 +4,10 @@
     "url": "https://degoya.digital",
     "icon": "https://favicons.githubusercontent.com/degoya.digital",
     "slug": "degoya",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1005,
@@ -16,6 +16,7 @@
     "timeMonth": 1009,
     "timeYear": 1005,
     "dailyMinutesDown": {
+      "2021-06-08": 1,
       "2021-01-08": 33,
       "2021-01-06": 31
     }
@@ -25,10 +26,10 @@
     "url": "https://hostflex.de",
     "icon": "https://favicons.githubusercontent.com/hostflex.de",
     "slug": "hostflex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 889,
@@ -36,7 +37,9 @@
     "timeWeek": 830,
     "timeMonth": 892,
     "timeYear": 889,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 1
+    }
   },
   {
     "name": "Hostflex ISPC1",
@@ -79,9 +82,9 @@
     "url": "https://web2.hostflex.de",
     "icon": "https://favicons.githubusercontent.com/web2.hostflex.de",
     "slug": "hostflex-web2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +93,9 @@
     "timeWeek": 681,
     "timeMonth": 710,
     "timeYear": 712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Hostflex Cloud",
