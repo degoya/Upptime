@@ -122,19 +122,19 @@
     "url": "https://git.hostflex.de",
     "icon": "https://favicons.githubusercontent.com/git.hostflex.de",
     "slug": "hostflex-git",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1036,
-    "timeDay": 1152,
-    "timeWeek": 1017,
+    "timeDay": 1092,
+    "timeWeek": 1019,
     "timeMonth": 1036,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-05": 9
     }
   }
 ]
