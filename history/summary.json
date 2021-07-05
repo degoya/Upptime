@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 1019,
     "timeDay": 1396,
-    "timeWeek": 1151,
+    "timeWeek": 1120,
     "timeMonth": 1092,
     "timeYear": 1019,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.99%",
     "time": 903,
     "timeDay": 987,
-    "timeWeek": 905,
+    "timeWeek": 898,
     "timeMonth": 964,
     "timeYear": 903,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeYear": "100.00%",
     "time": 793,
     "timeDay": 1045,
-    "timeWeek": 937,
+    "timeWeek": 886,
     "timeMonth": 923,
     "timeYear": 793,
     "dailyMinutesDown": {}
@@ -72,7 +72,7 @@
     "uptimeYear": "100.00%",
     "time": 760,
     "timeDay": 775,
-    "timeWeek": 790,
+    "timeWeek": 769,
     "timeMonth": 812,
     "timeYear": 760,
     "dailyMinutesDown": {}
@@ -90,7 +90,7 @@
     "uptimeYear": "99.99%",
     "time": 724,
     "timeDay": 761,
-    "timeWeek": 746,
+    "timeWeek": 725,
     "timeMonth": 777,
     "timeYear": 724,
     "dailyMinutesDown": {
@@ -110,7 +110,7 @@
     "uptimeYear": "99.81%",
     "time": 974,
     "timeDay": 1036,
-    "timeWeek": 1097,
+    "timeWeek": 1105,
     "timeMonth": 1010,
     "timeYear": 974,
     "dailyMinutesDown": {
@@ -122,17 +122,19 @@
     "url": "https://git.hostflex.de",
     "icon": "https://favicons.githubusercontent.com/git.hostflex.de",
     "slug": "hostflex-git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1036,
     "timeDay": 1152,
-    "timeWeek": 1036,
+    "timeWeek": 1017,
     "timeMonth": 1036,
     "timeYear": 1036,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   }
 ]
