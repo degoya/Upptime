@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1019,
-    "timeDay": 1396,
-    "timeWeek": 1120,
-    "timeMonth": 1092,
-    "timeYear": 1019,
+    "time": 1020,
+    "timeDay": 1267,
+    "timeWeek": 1125,
+    "timeMonth": 1107,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2021-06-08": 19,
       "2021-01-08": 33,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 903,
-    "timeDay": 987,
-    "timeWeek": 898,
-    "timeMonth": 964,
+    "timeDay": 942,
+    "timeWeek": 882,
+    "timeMonth": 972,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2021-06-08": 19
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 1045,
-    "timeWeek": 886,
-    "timeMonth": 923,
-    "timeYear": 793,
+    "time": 795,
+    "timeDay": 1049,
+    "timeWeek": 905,
+    "timeMonth": 936,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   },
   {
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 760,
-    "timeDay": 775,
-    "timeWeek": 769,
-    "timeMonth": 812,
+    "timeDay": 794,
+    "timeWeek": 752,
+    "timeMonth": 819,
     "timeYear": 760,
     "dailyMinutesDown": {}
   },
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 724,
-    "timeDay": 761,
-    "timeWeek": 725,
-    "timeMonth": 777,
-    "timeYear": 724,
+    "time": 725,
+    "timeDay": 907,
+    "timeWeek": 744,
+    "timeMonth": 788,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2021-06-08": 18
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 974,
-    "timeDay": 1036,
-    "timeWeek": 1105,
-    "timeMonth": 1010,
-    "timeYear": 974,
+    "time": 976,
+    "timeDay": 1216,
+    "timeWeek": 1069,
+    "timeMonth": 1023,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2021-05-19": 389
     }
@@ -123,18 +123,16 @@
     "icon": "https://favicons.githubusercontent.com/git.hostflex.de",
     "slug": "hostflex-git",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1036,
-    "timeDay": 1092,
-    "timeWeek": 1019,
-    "timeMonth": 1036,
-    "timeYear": 1036,
-    "dailyMinutesDown": {
-      "2021-07-05": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1055,
+    "timeDay": 1128,
+    "timeWeek": 1027,
+    "timeMonth": 1055,
+    "timeYear": 1055,
+    "dailyMinutesDown": {}
   }
 ]
